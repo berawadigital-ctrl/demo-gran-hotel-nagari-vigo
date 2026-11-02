@@ -1,0 +1,450 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-gran-hotel-nagari-vigo",
+ "source_site": "https://granhotelnagari.com/",
+ "source_read_at": "2026-11-02T07:00:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "habitacion",
+     "loft",
+     "executive"
+    ],
+    "en": [
+     "rooms",
+     "loft",
+     "executive"
+    ],
+    "fr": [
+     "chambres",
+     "loft",
+     "executive"
+    ],
+    "de": [
+     "zimmer",
+     "loft",
+     "executive"
+    ]
+   },
+   "a": {
+    "es": "Tiene 72 habitaciones: Loft Room y Executive Room (1/2 personas), además de suites como la Gold Suite Alameda y la Silver Master Suite. Todas con bañera de hidromasaje, Smart TV, cafetera y minibar, wifi de alta velocidad gratuito, aire acondicionado, albornoz y zapatillas.",
+    "en": "It has 72 rooms: Loft Room and Executive Room (1/2 guests), plus suites such as the Gold Suite Alameda and the Silver Master Suite. All with whirlpool bath, Smart TV, coffee maker and minibar, free high-speed wifi, air conditioning, bathrobe and slippers.",
+    "fr": "Il compte 72 chambres : Loft Room et Executive Room (1/2 personnes), ainsi que des suites comme la Gold Suite Alameda et la Silver Master Suite. Toutes avec baignoire hydromassante, Smart TV, cafetière et minibar, wifi haut débit gratuit, climatisation, peignoir et chaussons.",
+    "de": "Es hat 72 Zimmer: Loft Room und Executive Room (1/2 Personen) sowie Suiten wie die Gold Suite Alameda und die Silver Master Suite. Alle mit Whirlpool-Badewanne, Smart-TV, Kaffeemaschine und Minibar, kostenlosem Highspeed-WLAN, Klimaanlage, Bademantel und Hausschuhen."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelnagari.com/habitaciones/",
+     "quote": "Le acogemos en las 72 habitaciones que tenemos a su disposición."
+    },
+    {
+     "url": "https://granhotelnagari.com/habitaciones/",
+     "quote": "Loft Room"
+    },
+    {
+     "url": "https://granhotelnagari.com/habitaciones/",
+     "quote": "Executive Room"
+    },
+    {
+     "url": "https://granhotelnagari.com/habitaciones/",
+     "quote": "Capacidad 1/2 personas"
+    },
+    {
+     "url": "https://granhotelnagari.com/habitaciones/",
+     "quote": "Gold Suite Alameda"
+    },
+    {
+     "url": "https://granhotelnagari.com/habitaciones/",
+     "quote": "Silver Master Suite"
+    },
+    {
+     "url": "https://granhotelnagari.com/habitaciones/",
+     "quote": "Bañera de hidromasaje Smart Tv Cafetera y Minibar con café y agua de cortesía Secador de alta potencia Caja fuerte Diferentes ambientes lumínicos Wifi de alta velocidad gratuito Aire acondicionado Albornoz y zapatillas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "suites",
+   "keys": {
+    "es": [
+     "suite"
+    ],
+    "en": [
+     "suite"
+    ],
+    "fr": [
+     "suite"
+    ],
+    "de": [
+     "suite"
+    ]
+   },
+   "a": {
+    "es": "Sí. La Gold Suite Alameda tiene cama King size, sofá y balcón a la Alameda; la Silver Master Suite tiene jacuzzi, salón independiente, chimenea y vistas al mar.",
+    "en": "Yes. The Gold Suite Alameda has a King size bed, sofa and balcony onto the Alameda; the Silver Master Suite has a jacuzzi, separate lounge, fireplace and sea views.",
+    "fr": "Oui. La Gold Suite Alameda a un lit King size, un canapé et un balcon sur l’Alameda ; la Silver Master Suite a un jacuzzi, un salon séparé, une cheminée et vue sur la mer.",
+    "de": "Ja. Die Gold Suite Alameda hat ein Kingsize-Bett, Sofa und Balkon zur Alameda; die Silver Master Suite hat Jacuzzi, separaten Salon, Kamin und Meerblick."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelnagari.com/habitaciones/",
+     "quote": "Camas 1 tamaño King size Espacios Bañera de hidromasaje, sofá, balcón a la Alameda"
+    },
+    {
+     "url": "https://granhotelnagari.com/habitaciones/",
+     "quote": "Jacuzzi, salón independiente, chimenea, vistas al mar"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "spa",
+   "keys": {
+    "es": [
+     " spa",
+     "tratamiento",
+     "masaje"
+    ],
+    "en": [
+     " spa",
+     "treatment",
+     "massage"
+    ],
+    "fr": [
+     " spa",
+     "soin",
+     "massage"
+    ],
+    "de": [
+     " spa",
+     "behandlung",
+     "massage"
+    ]
+   },
+   "a": {
+    "es": "Sí, no es necesario estar alojado para disfrutar del Nagari Health & Spa. Reservas del spa: 986211314 o spa@granhotelnagari.com. Abre de lunes a jueves de 10:30 a 13:30 h y de 16:30 a 21:30 h, y de viernes a domingo y festivos de 10:30 h a 21:30 h, previa cita.",
+    "en": "Yes, you do not need to stay at the hotel to enjoy the Nagari Health & Spa. Spa bookings: 986211314 or spa@granhotelnagari.com. Open Monday to Thursday 10:30 to 13:30 and 16:30 to 21:30, and Friday to Sunday and holidays 10:30 to 21:30, by appointment.",
+    "fr": "Oui, il n’est pas nécessaire de séjourner à l’hôtel pour profiter du Nagari Health & Spa. Réservations du spa : 986211314 ou spa@granhotelnagari.com. Ouvert du lundi au jeudi de 10h30 à 13h30 et de 16h30 à 21h30, et du vendredi au dimanche et jours fériés de 10h30 à 21h30, sur rendez-vous.",
+    "de": "Ja, Sie müssen nicht im Hotel übernachten, um das Nagari Health & Spa zu nutzen. Spa-Reservierung: 986211314 oder spa@granhotelnagari.com. Geöffnet Montag bis Donnerstag 10:30 bis 13:30 und 16:30 bis 21:30 Uhr, Freitag bis Sonntag und feiertags 10:30 bis 21:30 Uhr, nach Termin."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelnagari.com/spa/",
+     "quote": "No es necesario estar alojado en el Gran Hotel Nagari para disfrutar de este maravilloso oasis situado en el centro de la ciudad Teléfono de reservas: 986211314 // spa@granhotelnagari.com"
+    },
+    {
+     "url": "https://granhotelnagari.com/servicios/",
+     "quote": "Nagari Health & Spa DE LUNES A JUEVES de 10:30 a 13:30 h y de 16:30 a 21:30h DE VIERNES A DOMINGO Y FESTIVOS de 10:30h a 21:30h PREVIA CITA"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "piscina",
+   "keys": {
+    "es": [
+     "piscina"
+    ],
+    "en": [
+     "pool"
+    ],
+    "fr": [
+     "piscine"
+    ],
+    "de": [
+     "pool",
+     "schwimmbad"
+    ]
+   },
+   "a": {
+    "es": "Sí, el spa tiene una piscina climatizada Skyline con chorros y vistas al mar.",
+    "en": "Yes, the spa has a heated Skyline pool with jets and sea views.",
+    "fr": "Oui, le spa dispose d’une piscine chauffée Skyline avec jets et vue sur la mer.",
+    "de": "Ja, das Spa hat einen beheizten Skyline-Pool mit Düsen und Meerblick."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelnagari.com/spa/",
+     "quote": "Piscina climatizada Skyline con chorros y vistas al mar"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "desayuno",
+   "keys": {
+    "es": [
+     "desayun"
+    ],
+    "en": [
+     "breakfast"
+    ],
+    "fr": [
+     "dejeuner"
+    ],
+    "de": [
+     "fruhstuck"
+    ]
+   },
+   "a": {
+    "es": "El desayuno es de lunes a viernes de 7:00 a 11:00 h, y sábados, domingos y festivos nacionales de 8:00 a 11:00 h.",
+    "en": "Breakfast is Monday to Friday from 7:00 to 11:00, and Saturdays, Sundays and national holidays from 8:00 to 11:00.",
+    "fr": "Le petit-déjeuner est servi du lundi au vendredi de 7h00 à 11h00, et les samedis, dimanches et jours fériés nationaux de 8h00 à 11h00.",
+    "de": "Frühstück gibt es Montag bis Freitag von 7:00 bis 11:00 Uhr, samstags, sonntags und an nationalen Feiertagen von 8:00 bis 11:00 Uhr."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelnagari.com/servicios/",
+     "quote": "Desayuno DE LUNES A VIERNES de 7:00 a 11:00h Sábados, domingos y festivos nacionales de 8:00 a 11:00h"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "gimnasio",
+   "keys": {
+    "es": [
+     "gimnas",
+     "fitness"
+    ],
+    "en": [
+     "gym",
+     "fitness"
+    ],
+    "fr": [
+     "salle de sport",
+     "fitness"
+    ],
+    "de": [
+     "fitness"
+    ]
+   },
+   "a": {
+    "es": "Sí, el gimnasio abre de lunes a domingo de 7:00 a 00:00 h.",
+    "en": "Yes, the gym is open Monday to Sunday from 7:00 to 00:00.",
+    "fr": "Oui, la salle de sport est ouverte du lundi au dimanche de 7h00 à 00h00.",
+    "de": "Ja, der Fitnessraum ist Montag bis Sonntag von 7:00 bis 00:00 Uhr geöffnet."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelnagari.com/servicios/",
+     "quote": "Gimnasio DE LUNES A DOMINGO ABIERTO de 7:00 a 00:00h"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "aparcamiento",
+   "keys": {
+    "es": [
+     "parking",
+     "aparc",
+     "coche"
+    ],
+    "en": [
+     "parking",
+     " car",
+     "park "
+    ],
+    "fr": [
+     "parking",
+     "garer",
+     "voiture"
+    ],
+    "de": [
+     "parkpl",
+     "parken",
+     "auto "
+    ]
+   },
+   "a": {
+    "es": "Sí, hay plazas de parking en el propio edificio, con servicio de aparcacoches. Son limitadas: conviene reservarlas antes de llegar. El coste por noche lo publica su web; confírmalo al reservar.",
+    "en": "Yes, there are parking spaces in the building itself, with valet service. They are limited, so it is best to book before arrival. The nightly cost is published on their website; confirm it when you book.",
+    "fr": "Oui, il y a des places de parking dans le bâtiment, avec voiturier. Elles sont limitées : mieux vaut les réserver avant l’arrivée. Le coût par nuit est publié sur leur site ; confirmez-le lors de la réservation.",
+    "de": "Ja, es gibt Parkplätze im Gebäude, mit Parkservice. Sie sind begrenzt, daher am besten vor der Anreise reservieren. Die Kosten pro Nacht stehen auf der Website; bitte bei der Buchung bestätigen."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelnagari.com/",
+     "quote": "El hotel cuenta con plazas de parking en el propio edificio. Si desea hacer uso de este servicio, es recomendable realizar la reserva antes de su llegada, puesto que las plazas son limitadas."
+    },
+    {
+     "url": "https://granhotelnagari.com/",
+     "quote": "incluye el servicio de aparcacoches"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "menores",
+   "keys": {
+    "es": [
+     "menor",
+     "nino",
+     "hijo"
+    ],
+    "en": [
+     "minor",
+     "child",
+     "kid"
+    ],
+    "fr": [
+     "mineur",
+     "enfant"
+    ],
+    "de": [
+     "minderjahr",
+     "kind"
+    ]
+   },
+   "a": {
+    "es": "Los menores de 18 años solo pueden acceder al hotel acompañados de sus padres o tutor legal; se pide el libro de familia o documentación que lo acredite.",
+    "en": "Under-18s may only enter the hotel accompanied by their parents or legal guardian; the family book or equivalent documents are required.",
+    "fr": "Les moins de 18 ans ne peuvent accéder à l’hôtel qu’accompagnés de leurs parents ou tuteur légal ; le livret de famille ou un justificatif est demandé.",
+    "de": "Unter 18-Jährige dürfen das Hotel nur in Begleitung ihrer Eltern oder des gesetzlichen Vormunds betreten; ein Familienbuch oder entsprechender Nachweis wird verlangt."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelnagari.com/",
+     "quote": "Los menores de 18 años solo podrán acceder al hotel acompañados de sus padres o tutor legal. Se requerirá el libro de familia o documentación que lo acredite."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "fumar",
+   "keys": {
+    "es": [
+     "fumar",
+     "fumo"
+    ],
+    "en": [
+     "smok"
+    ],
+    "fr": [
+     "fumer",
+     "fumeur"
+    ],
+    "de": [
+     "rauch"
+    ]
+   },
+   "a": {
+    "es": "No, el hotel es un espacio libre de humo: está prohibido fumar en todas las instalaciones.",
+    "en": "No, the hotel is smoke-free: smoking is forbidden throughout the premises.",
+    "fr": "Non, l’hôtel est non-fumeur : il est interdit de fumer dans toutes les installations.",
+    "de": "Nein, das Hotel ist rauchfrei: Rauchen ist in allen Bereichen verboten."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelnagari.com/",
+     "quote": "Gran Hotel Nagari es un espacio libre de humo. Está prohibido fumar en todas las instalaciones"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde esta",
+     "direccion",
+     "ubicacion",
+     "como llegar"
+    ],
+    "en": [
+     "where is",
+     "address",
+     "location",
+     "get there"
+    ],
+    "fr": [
+     "ou se trouv",
+     "adresse",
+     "emplacement"
+    ],
+    "de": [
+     "wo liegt",
+     "adresse",
+     "lage"
+    ]
+   },
+   "a": {
+    "es": "Está en la Praza de Compostela, 21, 36201 Vigo (Pontevedra), en el corazón de la ciudad.",
+    "en": "It is at Praza de Compostela, 21, 36201 Vigo (Pontevedra), in the heart of the city.",
+    "fr": "Il se trouve Praza de Compostela, 21, 36201 Vigo (Pontevedra), au cœur de la ville.",
+    "de": "Es liegt an der Praza de Compostela, 21, 36201 Vigo (Pontevedra), im Herzen der Stadt."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelnagari.com/servicios/",
+     "quote": "Praza de Compostela, 21 36201 Vigo, Pontevedra Spain"
+    },
+    {
+     "url": "https://granhotelnagari.com/el-hotel/",
+     "quote": "El espíritu cosmopolita en el corazón de Vigo."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig"
+    ]
+   },
+   "a": {
+    "es": "Puedes ver disponibilidad y reservar en su página de reservas (botón Reservar), llamar al +34 986 21 11 11 o escribir a info@granhotelnagari.com. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can check availability and book on their booking page (Book button), call +34 986 21 11 11 or email info@granhotelnagari.com. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez vérifier la disponibilité et réserver sur leur page de réservation (bouton Réserver), appeler le +34 986 21 11 11 ou écrire à info@granhotelnagari.com. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können auf der Buchungsseite (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen, +34 986 21 11 11 anrufen oder an info@granhotelnagari.com schreiben. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://granhotelnagari.com/servicios/",
+     "quote": "+34 986 21 11 11"
+    },
+    {
+     "url": "https://granhotelnagari.com/servicios/",
+     "quote": "info@granhotelnagari.com"
+    }
+   ],
+   "cta": true
+  }
+ ]
+}
