@@ -1,0 +1,50 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://granhotelnagari.com/",
+ "read_at": "2026-11-02T07:00:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://granhotelnagari.com/",
+   "sha256": "03cadbddecaa21060f0b245b9e190149ba9821bfd8ed03e9e615f6a501015955",
+   "chars": 8305
+  },
+  {
+   "url": "https://granhotelnagari.com/el-hotel/",
+   "sha256": "ff680a7636b5cd4d75ed784318e74490577e82436a854e89740ac463af0d1c2f",
+   "chars": 5520
+  },
+  {
+   "url": "https://granhotelnagari.com/habitaciones/",
+   "sha256": "d77b758f7cfcffba180b612cd1268194644a6ad26594b6719e1076c0c9ce589a",
+   "chars": 7885
+  },
+  {
+   "url": "https://granhotelnagari.com/servicios/",
+   "sha256": "4e134767a6ec30e4df06bdbd1bbded01f9cb46dc1022246e603d6b9f08af9edc",
+   "chars": 5501
+  },
+  {
+   "url": "https://granhotelnagari.com/spa/",
+   "sha256": "07c2affeadfd623b762d42fb24fb453e73f4e21d4f124084870600a91ad761a4",
+   "chars": 5855
+  }
+ ],
+ "other_pages_read": [
+  "https://granhotelnagari.com",
+  "https://granhotelnagari.com/cartaroom/",
+  "https://granhotelnagari.com/en/",
+  "https://granhotelnagari.com/entorno/",
+  "https://granhotelnagari.com/espacios/",
+  "https://granhotelnagari.com/fr/",
+  "https://granhotelnagari.com/gl/",
+  "https://granhotelnagari.com/manhattan/",
+  "https://granhotelnagari.com/medicalwellness/",
+  "https://granhotelnagari.com/menualameda/",
+  "https://granhotelnagari.com/menudesayunos/",
+  "https://granhotelnagari.com/menulounge/",
+  "https://granhotelnagari.com/pt-pt/",
+  "https://granhotelnagari.com/restaurante/",
+  "https://granhotelnagari.com/skyline/"
+ ]
+}
