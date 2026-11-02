@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-gran-hotel-nagari-vigo",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-11-02T06:59:00+01:00",
+ "updated_at": "2026-11-02T07:15:00+01:00",
+ "business": {
+  "name": "Gran Hotel Nagari",
+  "legal_name": "ONIX VIGO S.L. (aviso legal de su web)",
+  "registry_ids": [
+   "B36575272"
+  ],
+  "url": "https://granhotelnagari.com/",
+  "domain": "granhotelnagari.com",
+  "municipality": "Vigo",
+  "province": "Pontevedra",
+  "address": "Praza de Compostela, 21 · 36201 Vigo (Pontevedra)",
+  "phones": [
+   "+34 986 21 11 11"
+  ],
+  "emails": [
+   "info@granhotelnagari.com"
+  ],
+  "sector": "hotel boutique y spa de cinco estrellas en el centro de Vigo"
+ },
+ "rating": {
+  "value": 4.5,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por web, dir)",
+  "url": "https://www.google.com/maps/place/Gran+Hotel+Nagari/@42.2396951,-8.7214113,17z/data=!4m9!3m8!1s0xd2f6241eea267b1:0x16aa2a784e662c95!5m2!4m1!1i2!8m2!3d42.2396951!4d-8.7214113!16s%2Fg%2F1vfwf46m",
+  "date": "2026-10-29",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": "https://granhotelnagari.com/reservas/",
+  "note": "pagina de reservas real de su web con el motor Mirai (granhotelnagari.com/reservas/ y /en/reservas-en/), HTTP 200 comprobado el 02/11/2026; su web no tiene version alemana ni francesa de la pagina de reservas, fr y de usan la inglesa."
+ },
+ "audit_original": {
+  "url": "https://granhotelnagari.com/",
+  "date": "2026-11-02T06:48:27+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
