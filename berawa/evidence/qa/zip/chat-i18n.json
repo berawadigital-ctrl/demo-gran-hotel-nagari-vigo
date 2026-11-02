@@ -1,0 +1,428 @@
+{
+ "url": "http://127.0.0.1:45153/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 72 habitaciones: Loft Room y Executive Room (1/2 personas), además de suites como la Gold Suite Alameda y la Silver Master Suite. Toda"
+    },
+    {
+     "q": "¿Cuántas habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 72 habitaciones: Loft Room y Executive Room (1/2 personas), además de suites como la Gold Suite Alameda y la Silver Master Suite. Toda"
+    },
+    {
+     "q": "¿Tenéis suites?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí. La Gold Suite Alameda tiene cama King size, sofá y balcón a la Alameda; la Silver Master Suite tiene jacuzzi, salón independiente, chime"
+    },
+    {
+     "q": "¿Puedo ir al spa sin alojarme?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí, no es necesario estar alojado para disfrutar del Nagari Health & Spa. Reservas del spa: 986211314 o spa@granhotelnagari.com. Abre de lun"
+    },
+    {
+     "q": "¿Hay piscina?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, el spa tiene una piscina climatizada Skyline con chorros y vistas al mar."
+    },
+    {
+     "q": "¿A qué hora es el desayuno?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "El desayuno es de lunes a viernes de 7:00 a 11:00 h, y sábados, domingos y festivos nacionales de 8:00 a 11:00 h."
+    },
+    {
+     "q": "¿Hay gimnasio?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí, el gimnasio abre de lunes a domingo de 7:00 a 00:00 h."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sí, hay plazas de parking en el propio edificio, con servicio de aparcacoches. Son limitadas: conviene reservarlas antes de llegar. El coste"
+    },
+    {
+     "q": "¿Pueden alojarse menores?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Los menores de 18 años solo pueden acceder al hotel acompañados de sus padres o tutor legal; se pide el libro de familia o documentación que"
+    },
+    {
+     "q": "¿Se puede fumar?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "No, el hotel es un espacio libre de humo: está prohibido fumar en todas las instalaciones."
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Está en la Praza de Compostela, 21, 36201 Vigo (Pontevedra), en el corazón de la ciudad."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Puedes ver disponibilidad y reservar en su página de reservas (botón Reservar), llamar al +34 986 21 11 11 o escribir a info@granhotelnagari"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Puedes ver disponibilidad y reservar en su página de reservas (botón Reservar), llamar al +34 986 21 11 11 o escribir a info@granhotelnagari"
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 986 21 11 11 · info@granhotelnagari.com."
+    },
+    {
+     "q": "¿Tenéis campo de golf?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 986 21 11 11 · info@granhotelnagari.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿Puedo ir al spa sin alojarme?",
+    "¿A qué hora es el desayuno?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "svc0",
+    "svc3",
+    "svc4"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 72 rooms: Loft Room and Executive Room (1/2 guests), plus suites such as the Gold Suite Alameda and the Silver Master Suite. All with"
+    },
+    {
+     "q": "How many rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 72 rooms: Loft Room and Executive Room (1/2 guests), plus suites such as the Gold Suite Alameda and the Silver Master Suite. All with"
+    },
+    {
+     "q": "Do you have suites?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Yes. The Gold Suite Alameda has a King size bed, sofa and balcony onto the Alameda; the Silver Master Suite has a jacuzzi, separate lounge, "
+    },
+    {
+     "q": "Can I use the spa without staying?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes, you do not need to stay at the hotel to enjoy the Nagari Health & Spa. Spa bookings: 986211314 or spa@granhotelnagari.com. Open Monday "
+    },
+    {
+     "q": "Is there a pool?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes, the spa has a heated Skyline pool with jets and sea views."
+    },
+    {
+     "q": "What time is breakfast?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Breakfast is Monday to Friday from 7:00 to 11:00, and Saturdays, Sundays and national holidays from 8:00 to 11:00."
+    },
+    {
+     "q": "Is there a gym?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Yes, the gym is open Monday to Sunday from 7:00 to 00:00."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Yes, there are parking spaces in the building itself, with valet service. They are limited, so it is best to book before arrival. The nightl"
+    },
+    {
+     "q": "Can minors stay?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Under-18s may only enter the hotel accompanied by their parents or legal guardian; the family book or equivalent documents are required."
+    },
+    {
+     "q": "Can I smoke?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "No, the hotel is smoke-free: smoking is forbidden throughout the premises."
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "It is at Praza de Compostela, 21, 36201 Vigo (Pontevedra), in the heart of the city."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "You can check availability and book on their booking page (Book button), call +34 986 21 11 11 or email info@granhotelnagari.com. This assis"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "You can check availability and book on their booking page (Book button), call +34 986 21 11 11 or email info@granhotelnagari.com. This assis"
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 986 21 11 11 · info@granhotelnagari.com."
+    },
+    {
+     "q": "Do you have a golf course?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 986 21 11 11 · info@granhotelnagari.com."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "Can I use the spa without staying?",
+    "What time is breakfast?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "stat2",
+    "svc0",
+    "svc3"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 72 chambres : Loft Room et Executive Room (1/2 personnes), ainsi que des suites comme la Gold Suite Alameda et la Silver Master Su"
+    },
+    {
+     "q": "Combien de chambres a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 72 chambres : Loft Room et Executive Room (1/2 personnes), ainsi que des suites comme la Gold Suite Alameda et la Silver Master Su"
+    },
+    {
+     "q": "Avez-vous des suites ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Oui. La Gold Suite Alameda a un lit King size, un canapé et un balcon sur l’Alameda ; la Silver Master Suite a un jacuzzi, un salon séparé, "
+    },
+    {
+     "q": "Puis-je aller au spa sans séjourner ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui, il n’est pas nécessaire de séjourner à l’hôtel pour profiter du Nagari Health & Spa. Réservations du spa : 986211314 ou spa@granhotelna"
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui, le spa dispose d’une piscine chauffée Skyline avec jets et vue sur la mer."
+    },
+    {
+     "q": "À quelle heure est le petit-déjeuner ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Le petit-déjeuner est servi du lundi au vendredi de 7h00 à 11h00, et les samedis, dimanches et jours fériés nationaux de 8h00 à 11h00."
+    },
+    {
+     "q": "Y a-t-il une salle de sport ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Oui, la salle de sport est ouverte du lundi au dimanche de 7h00 à 00h00."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Oui, il y a des places de parking dans le bâtiment, avec voiturier. Elles sont limitées : mieux vaut les réserver avant l’arrivée. Le coût p"
+    },
+    {
+     "q": "Les mineurs peuvent-ils séjourner ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Les moins de 18 ans ne peuvent accéder à l’hôtel qu’accompagnés de leurs parents ou tuteur légal ; le livret de famille ou un justificatif e"
+    },
+    {
+     "q": "Peut-on fumer ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Non, l’hôtel est non-fumeur : il est interdit de fumer dans toutes les installations."
+    },
+    {
+     "q": "Où se trouve l’hôtel ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Il se trouve Praza de Compostela, 21, 36201 Vigo (Pontevedra), au cœur de la ville."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Vous pouvez vérifier la disponibilité et réserver sur leur page de réservation (bouton Réserver), appeler le +34 986 21 11 11 ou écrire à in"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Vous pouvez vérifier la disponibilité et réserver sur leur page de réservation (bouton Réserver), appeler le +34 986 21 11 11 ou écrire à in"
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 986 21 11 11 · info@granhotelnagari.com."
+    },
+    {
+     "q": "Avez-vous un terrain de golf ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 986 21 11 11 · info@granhotelnagari.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "Puis-je aller au spa sans séjourner ?",
+    "À quelle heure est le petit-déjeuner ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "svc0",
+    "svc3"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es hat 72 Zimmer: Loft Room und Executive Room (1/2 Personen) sowie Suiten wie die Gold Suite Alameda und die Silver Master Suite. Alle mit "
+    },
+    {
+     "q": "Wie viele Zimmer hat das Hotel?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es hat 72 Zimmer: Loft Room und Executive Room (1/2 Personen) sowie Suiten wie die Gold Suite Alameda und die Silver Master Suite. Alle mit "
+    },
+    {
+     "q": "Haben Sie Suiten?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Ja. Die Gold Suite Alameda hat ein Kingsize-Bett, Sofa und Balkon zur Alameda; die Silver Master Suite hat Jacuzzi, separaten Salon, Kamin u"
+    },
+    {
+     "q": "Kann ich das Spa ohne Übernachtung nutzen?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ja, Sie müssen nicht im Hotel übernachten, um das Nagari Health & Spa zu nutzen. Spa-Reservierung: 986211314 oder spa@granhotelnagari.com. G"
+    },
+    {
+     "q": "Gibt es einen Pool?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ja, das Spa hat einen beheizten Skyline-Pool mit Düsen und Meerblick."
+    },
+    {
+     "q": "Wann gibt es Frühstück?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Frühstück gibt es Montag bis Freitag von 7:00 bis 11:00 Uhr, samstags, sonntags und an nationalen Feiertagen von 8:00 bis 11:00 Uhr."
+    },
+    {
+     "q": "Gibt es einen Fitnessraum?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Ja, der Fitnessraum ist Montag bis Sonntag von 7:00 bis 00:00 Uhr geöffnet."
+    },
+    {
+     "q": "Gibt es Parkplätze?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Ja, es gibt Parkplätze im Gebäude, mit Parkservice. Sie sind begrenzt, daher am besten vor der Anreise reservieren. Die Kosten pro Nacht ste"
+    },
+    {
+     "q": "Dürfen Minderjährige übernachten?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Unter 18-Jährige dürfen das Hotel nur in Begleitung ihrer Eltern oder des gesetzlichen Vormunds betreten; ein Familienbuch oder entsprechend"
+    },
+    {
+     "q": "Darf man rauchen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Nein, das Hotel ist rauchfrei: Rauchen ist in allen Bereichen verboten."
+    },
+    {
+     "q": "Wo liegt das Hotel?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Es liegt an der Praza de Compostela, 21, 36201 Vigo (Pontevedra), im Herzen der Stadt."
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Sie können auf der Buchungsseite (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen, +34 986 21 11 11 anrufen oder an info@granhoteln"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Sie können auf der Buchungsseite (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen, +34 986 21 11 11 anrufen oder an info@granhoteln"
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 986 21 11 11 · info@granhotelnagari.com."
+    },
+    {
+     "q": "Haben Sie einen Golfplatz?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 986 21 11 11 · info@granhotelnagari.com."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Kann ich das Spa ohne Übernachtung nutzen?",
+    "Wann gibt es Frühstück?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
